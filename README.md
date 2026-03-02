@@ -1,4 +1,4 @@
-# product-management
+# Product Management
 
 一個給 AI Agent 使用的產品管理技能，協助 PM 撰寫 PRD、規格文件、功能規劃與優先級排序。透過連結您團隊的真實來源文件（Notion、Confluence、Google Docs 等），讓 AI Agent 在每次產品工作時都有正確的背景資訊。
 

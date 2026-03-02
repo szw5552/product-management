@@ -1,4 +1,5 @@
 ---
+name: factory-product-management
 description: 產品管理助手。在編寫設計文件、PRD、產品規格、功能規劃、優先級排序或任何與 PM 相關的工作時使用。提供有關 Factory 產品原則、定位和團隊結構的背景信息。
 ---
 
